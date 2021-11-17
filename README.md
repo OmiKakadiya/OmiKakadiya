@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @OmiKakadiya
+- 👀 I’m interested in exploring new things   
+- 🌱 I’m currently learning DSA
